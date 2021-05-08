@@ -1,6 +1,6 @@
 # Breast-cancer-risk-prediction
 
-## Welcome to my GitHub repository on Using Naive Bias Classifer model to diagnose breast cancer.
+## Welcome to my GitHub repository on Using Naive Bayes Classifer model to diagnose breast cancer.
 
 ---
 
@@ -28,7 +28,7 @@ Getting familiar with the data using data exploration and visualization techniqu
 **Goal:- Find the most predictive features of the data and filter it so it will enhance the predictive power of the analytics model.**
 Did feature selection to reduce high-dimension data, feature extraction and transformation for dimensionality reduction. This is essential in preparing the data before predictive models are developed.
 
-### Predictive model using Naive Bias Classifers
+### Predictive model using Naive Bayes Classifers
 **Goal:- Construct predictive models to predict the diagnosis of a breast tumor.** 
-Presented a predictive model using Naive Bias machine learning algorithm to predict the diagnosis of a breast tumor. The diagnosis of a breast tumor is a binary variable (benign or malignant). We have also evaluate the model using pairplots, heatmaps and confusion matrix in the same mentioned order. Which are essential in assessing and interpreting the fitted model.
+Presented a predictive model using Naive Bayes machine learning algorithm to predict the diagnosis of a breast tumor. The diagnosis of a breast tumor is a binary variable (benign or malignant). We have also evaluate the model using pairplots, heatmaps and confusion matrix in the same mentioned order. Which are essential in assessing and interpreting the fitted model.
 
