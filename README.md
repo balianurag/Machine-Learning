@@ -10,7 +10,7 @@ The repository is a learning exercise to:
 * Evaluate and interpret my results and justify my interpretation based on observed data set
 * Create notebooks that serve as computational records and document my thought process. 
 
-The analysis is divided into four sections, saved in a single [NoteBook](https://github.com/balianurag/Machine-Learning/blob/main/Breast_Cancer_Pred_NaiveBias.ipynb) in this repository
+The analysis is divided into four sections, saved in a single [NoteBook](https://github.com/balianurag/Machine-Learning/blob/main/Breast_Cancer_Pred_NaiveBayes.ipynb) in this repository
 1. Identifying the problem  and Data Sources
 2. Exploratory Data Analysis
 3. Pre-Processing the Data
